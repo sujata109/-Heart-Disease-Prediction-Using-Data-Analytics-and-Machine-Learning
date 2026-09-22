@@ -75,8 +75,8 @@ The best-performing model — a **Support Vector Machine (SVC, rbf kernel, C=10,
 ### 1. Clone / download the repository
 
 ```bash
-git clone <your-repo-url>
-cd ibm-bubli
+git clone https://github.com/sujata109/-Heart-Disease-Prediction-Using-Data-Analytics-and-Machine-Learning.git
+cd Heart-Disease-Prediction-Using-Data-Analytics-and-Machine-Learning
 ```
 
 ### 2. Create and activate a virtual environment (recommended)
